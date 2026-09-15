@@ -1,0 +1,5 @@
+We discussed the production deployment.
+Sunil will prepare the deployment checklist by Friday.
+Database team needs to validate indexes.
+The release may move to Saturday.
+Need confirmation from QA.

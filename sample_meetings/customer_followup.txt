@@ -1,0 +1,4 @@
+The customer approved the API contract.
+Maya will send the integration timeline by Wednesday.
+The security review depends on the customer's test credentials.
+We need to confirm whether the pilot starts in June.

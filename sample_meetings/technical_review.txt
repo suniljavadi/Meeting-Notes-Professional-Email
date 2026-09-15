@@ -1,0 +1,4 @@
+The team agreed to use the queue-based retry design.
+Arun should review the retry limits before Thursday.
+A dependency is the platform team's staging environment.
+There is a risk that load-test results arrive late.
