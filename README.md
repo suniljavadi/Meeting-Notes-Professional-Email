@@ -4,6 +4,15 @@
 
 A portfolio application that turns synthetic meeting notes into a reviewable, professional email. It demonstrates a practical NLP workflow with structured Pydantic extraction, provider abstraction, validation, an API, and a Streamlit client.
 
+## Live API
+
+Base URL: https://meeting-notes-professional-email.onrender.com
+
+- [Health](https://meeting-notes-professional-email.onrender.com/health)
+- [API documentation](https://meeting-notes-professional-email.onrender.com/docs)
+
+The API is deployed on Render's free tier from the `main` branch. It may sleep when idle; the verified health response is `{"status":"ok","environment":"development"}`. The Streamlit UI remains configured for local use until a public `API_URL` is supplied.
+
 ## Problem
 Meeting notes are often incomplete and unstructured. This application extracts a summary, decisions, action items, owners, deadlines, risks, dependencies, and open questions, then drafts a communication without inventing facts.
 
