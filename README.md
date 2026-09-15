@@ -1,5 +1,7 @@
 # AI Meeting Notes to Professional Email Assistant
 
+**Status: Completed portfolio implementation with deterministic mock mode**
+
 A portfolio application that turns synthetic meeting notes into a reviewable, professional email. It demonstrates a practical NLP workflow with structured Pydantic extraction, provider abstraction, validation, an API, and a Streamlit client.
 
 ## Problem
@@ -127,7 +129,7 @@ git init
 git add .
 git commit -m "Build meeting notes to professional email assistant"
 git branch -M main
-git remote add origin https://github.com/YOUR_USER/meeting-email-assistant.git
+git remote add origin https://github.com/suniljavadi/Meeting-Notes-Professional-Email.git
 git push -u origin main
 ```
 
